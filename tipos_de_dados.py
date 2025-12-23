@@ -1,0 +1,5 @@
+print(10 + 10)
+print("Hello World!")
+print('Olá Mundo!')
+print(True)
+print(1.5 - 0.5)
